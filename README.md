@@ -18,4 +18,4 @@ Because everyone should write their own framework once (and then throw it away) 
 
 This project intends to follow [PSR-1](http://www.php-fig.org/psr/psr-1) and [PSR-2](http://www.php-fig.org/psr/psr-2) for coding standards and style; as well as [PSR-3](http://www.php-fig.org/psr/psr-3) for logging and [PSR-4](http://www.php-fig.org/psr/psr-4) for autoloading, but indepth explanations of these guidelines is outside the scope of the tutorial. You are encouraged to [read up on PSR](http://www.php-fig.org/) on your own time.
 
-The master branch will always contain the pjoect at it's baseline. Just skeleton of folders and placeholders. Each segment of the tutorial will have it's own branch off of the previous.
+The `master` branch will always contain the project at its baseline. A skeleton of folders with placeholders. Each segment of the tutorial will have its own branch from the previous.
