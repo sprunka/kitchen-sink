@@ -8,7 +8,7 @@ CAVEAT: Anthony "ircmaxell" Ferrara wrote a great break down of [MVC concept vs.
 
 So go read that post, I'll wait. ... ....
 
-Great post, right? So why am I teaching it if you shouldn't bother learning it? Well, right now, this tutorial is in flux. I'm growing as I'm creating it. So maybe by the time it goes public it won't involve "MVC". This tutorial is all about helping you learn about OOP. This interpretation of the MVC concept was my introduction, so it it what I know best.
+Great post, right? So why am I teaching it if you shouldn't bother learning it? Well, right now, this tutorial is in flux. I'm growing as I'm creating it. So maybe by the time it goes public it won't involve "MVC". This tutorial is all about helping you learn about OOP. This interpretation of the MVC concept was my introduction, so it is what I currently know best.
 
 On with the show!
 
