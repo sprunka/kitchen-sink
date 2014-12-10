@@ -1,3 +1,6 @@
+# UPDATE: This is project is on temporary hiatus. (Hopefully very temporary.)
+
+
 # Cooking With PHP:
 ## A Foodie's Guide to Learning OOP (via MVC)
 
