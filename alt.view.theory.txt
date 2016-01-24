@@ -1,0 +1,10 @@
+Matt McDonald (mkmcdonald):
+I think of the model layer as the pantry, full of recipes (domain logic) and ingredients.
+
+Requests are orders,
+a Web server is an order printer, and
+responses are completed orders.
+
+Controllers are cooks using domain logic (model layer) to create a response to send out.
+Views are the plating style.
+Frameworks and libraries would be special tools like blenders and pressure cookers.

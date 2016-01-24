@@ -1,14 +1,17 @@
+# UPDATE: This is project is on temporary hiatus. (Hopefully very temporary.)
+
+
 # Cooking With PHP:
 ## A Foodie's Guide to Learning OOP (via MVC)
 
 + **OOP** is Object Oriented Programming.
 + **MVC** is Model, View, Controller. (plus extras like helpers and libraries)
 
-CAVEAT: Anthony "ircmaxell" Ferrara wrote a great break down of [MVC concept vs. pattern](http://blog.ircmaxell.com/2014/11/a-beginners-guide-to-mvc-for-web.html "Read this first.") and why you probably should not learn MVC.
+**CAVEAT:** Anthony _"ircmaxell"_ Ferrara wrote a great break down of [MVC concept vs. pattern](http://blog.ircmaxell.com/2014/11/a-beginners-guide-to-mvc-for-web.html "Read this first.") and why you probably should not learn MVC.
 
 So go read that post, I'll wait. ... ....
 
-Great post, right? So why am I teaching it if you shouldn't bother learning it? Well, right now, this tutorial is in flux. I'm growing as I'm creating it. So maybe by the time it goes public it won't involve "MVC". This tutorial is all about helping you learn about OOP. This interpretation of the MVC concept was my introduction, so it it what I know best.
+Great post, right? So why am I teaching it if you shouldn't bother learning it? Well, right now, this tutorial is in flux. I'm growing as I'm creating it. So maybe by the time it goes public it won't involve "MVC". This tutorial is all about helping you learn about OOP. This interpretation of the MVC concept was my introduction, so it is what I currently know best.
 
 On with the show!
 
