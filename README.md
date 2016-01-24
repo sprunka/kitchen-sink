@@ -7,7 +7,7 @@
 + **OOP** is Object Oriented Programming.
 + **MVC** is Model, View, Controller. (plus extras like helpers and libraries)
 
-CAVEAT: Anthony "ircmaxell" Ferrara wrote a great break down of [MVC concept vs. pattern](http://blog.ircmaxell.com/2014/11/a-beginners-guide-to-mvc-for-web.html "Read this first.") and why you probably should not learn MVC.
+**CAVEAT:** Anthony _"ircmaxell"_ Ferrara wrote a great break down of [MVC concept vs. pattern](http://blog.ircmaxell.com/2014/11/a-beginners-guide-to-mvc-for-web.html "Read this first.") and why you probably should not learn MVC.
 
 So go read that post, I'll wait. ... ....
 
